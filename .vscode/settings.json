@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "boundingbox.C": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "scene_parser.C": "cpp",
+        "rayTree.C": "cpp",
+        "glCanvas.C": "cpp"
+    }
+}
